@@ -9,7 +9,7 @@ e exibição da listagem de livros cadastrados.
 
 Todas as opções disponíveis devem ser listadas como um menu.  
 
-Exemplo de Menu: 
+Exemplo de Menu:
 1 - Adiciona um livro  
 2 - Remove um livro  
 3 - Imprimir os livros cadastrados 
